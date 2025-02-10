@@ -45,5 +45,23 @@ I`m Full Stack Web Developer
 <img src="https://skillicons.dev/icons?i=java">
 <img width="12px">
 <img src="https://skillicons.dev/icons?i=lua">
+<img width="12px">
+<img src="https://skillicons.dev/icons?i=arduino">
+<img width="12px">
+<img src="https://skillicons.dev/icons?i=autocad">
+<img width="12px">
+<img src="https://skillicons.dev/icons?i=bootstrap">
+<img width="12px">
+<img src="https://skillicons.dev/icons?i=figma">
+<img width="12px">
+<img src="https://skillicons.dev/icons?i=git">
+<img width="12px">
+<img src="https://skillicons.dev/icons?i=mysql">
+<img width="12px">
+<img src="https://skillicons.dev/icons?i=php">
+<img width="12px">
+<img src="https://skillicons.dev/icons?i=py">
+<img width="12px">
+<img src="https://skillicons.dev/icons?i=vscode">
 
 </div>
