@@ -61,5 +61,6 @@ I`m Full Stack Web Developer
 <img src="https://skillicons.dev/icons?i=php">
 <img width="12px">
 <img src="https://skillicons.dev/icons?i=py">
+<img width="12px">
 
 </div>
