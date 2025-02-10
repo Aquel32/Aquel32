@@ -1,83 +1,49 @@
-# <div align="center">Hello there! I'm Petah 💅💅💅</div>
+## Hi 👋! I`m Piotr
 
-<br>
+I`m Full Stack Web Developer
 
-<div align="center">🧠 <i>I know every language, even if i haven't touched it before</i> 🧠</div>
+###
 
-<br><br>
+<div align="center">
 
-```json
-{
-  "aboutMe": {
-    "langsAndTechnologies": [
-      {
-        "name": "C#",
-        "expierience": "Making games in Unity 4fun",
-        "using since": "March 2020"
-      },
-      {
-        "name": "C++",
-        "expierience": "Knowledge of basic algorithms, and using them in code.",
-        "using since": "September 2023"
-      },
-      {
-        "name": "HTML",
-        "expierience": "Solid understandment of using and work",
-        "using since": "September 2023"
-      },
-      {
-        "name": "CSS",
-        "expierience": "Intermediate knowledge",
-        "using since": "September 2023"
-      },
-      {
-        "name": "JS",
-        "expierience": "Everything needed for further learning new technologies",
-        "using since": "September 2023"
-      },
-      {
-        "name": "Lua",
-        "expierience": "Basic knowledge, in general making Fivem scripts",
-        "using since": "July 2024"
-      },
-      {
-        "name": "MySQL",
-        "expierience": "Integration with fivem scripts, websites, etc.",
-        "using since": "July 2024"
-      },
-      {
-        "name": "React & React Native",
-        "expierience": "Currently learning. I can build basic webapps",
-        "using since": "October 2024"
-      },
-      {
-        "name": "NextJS",
-        "expierience": "Related to React. General understandment of how it works",
-        "using since": "October 2024"
-      },
-      {
-        "name": "Java",
-        "expierience": "Making Minecraft plugins",
-        "using since": "December 2024"
-      },
-    ],
-    "currentProjects": [
-      {
-        "name": "Minecraft Plugin",
-        "purpose": "Community Center from Stardew Valley",
-        "technologiesUsed": "Java, MySQL"
-      },
-      {
-        "name": "Gym App",
-        "purpose": "Tracking of gym progression in own app",
-        "technologiesUsed": "React Native, Expo, MySQL, HTML, Tailwind CSS"
-      },
-      {
-        "name": "School Calendar",
-        "purpose": "Website for classmates, that could help them to stay in touch with incoming events",
-        "technologiesUsed": "React, NextJS, MySQL, HTML, Tailwind CSS"
-      },
-    ]
-  }
-}
-```
+<img src="https://github-readme-stats.vercel.app/api?username=Aquel32&theme=nord&show_icons=true&hide_border=true&count_private=true" alt="stats" height="150px">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aquel32&theme=nord&hide_border=true" alt="streak" height="150px">
+</div>
+
+###
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js">
+<img width="12px">
+<img src="https://skillicons.dev/icons?i=ts">
+<img width="12px">
+<img src="https://skillicons.dev/icons?i=html">
+<img width="12px">
+<img src="https://skillicons.dev/icons?i=css">
+<img width="12px">
+<img src="https://skillicons.dev/icons?i=react">
+<img width="12px">
+<img src="https://skillicons.dev/icons?i=nextjs">
+<img width="12px">
+<img src="https://skillicons.dev/icons?i=tailwind">
+<img width="12px">
+<img src="https://skillicons.dev/icons?i=nodejs">
+<img width="12px">
+<img src="https://skillicons.dev/icons?i=npm">
+<img width="12px">
+<img src="https://skillicons.dev/icons?i=unity">
+<img width="12px">
+<img src="https://skillicons.dev/icons?i=cpp">
+<img width="12px">
+<img src="https://skillicons.dev/icons?i=cs">
+<img width="12px">
+<img src="https://skillicons.dev/icons?i=cmake">
+<img width="12px">
+<img src="https://skillicons.dev/icons?i=gcp">
+<img width="12px">
+<img src="https://skillicons.dev/icons?i=java">
+<img width="12px">
+<img src="https://skillicons.dev/icons?i=lua">
+
+</div>
