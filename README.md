@@ -6,8 +6,8 @@ I`m Full Stack Web Developer
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aquel32&theme=onedark&show_icons=true&hide_border=true&count_private=true" alt="stats" height="150px">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aquel32&theme=onedark&hide_border=true" alt="streak" height="150px">
+<img src="https://github-readme-stats.vercel.app/api?username=Aquel32&theme=nord&show_icons=true&hide_border=true&count_private=true" alt="stats" height="150px">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aquel32&theme=nord&hide_border=true" alt="streak" height="150px">
 </div>
 
 ###
