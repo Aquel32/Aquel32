@@ -1,6 +1,6 @@
 ## Hi 👋! I`m Piotr
 
-I`m Full Stack Web Developer
+I`m Software Developer and Game Dev enthusiast
 
 ###
 
